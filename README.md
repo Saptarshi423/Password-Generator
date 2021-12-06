@@ -2,6 +2,8 @@
 A web app used to generate unique passwords every time.
 
 User needs to check the option that they want in their password to be present.
+
+## Screenshots
 ![sc1](https://user-images.githubusercontent.com/51373298/143733183-ae5d0b6a-f009-4071-af24-62076ea1e766.JPG)
 
 Unique Password Created
