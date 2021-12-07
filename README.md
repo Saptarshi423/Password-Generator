@@ -13,6 +13,7 @@ Unique Password Generated
 
 ![sc2](https://user-images.githubusercontent.com/51373298/143733309-6a50060e-388d-431d-95f0-bdb72ebf0f6e.JPG)
 
-## What I Learnt?
-1. Learnt about callbacks in JavaScript and how thry are used.
-2. Learnt about DOM manipulation.
+## Lessons Learned
+
+1. I Learnt about callback function in JavaScript and how it works.
+2. Learnt about DOM Manipulation  
