@@ -17,3 +17,7 @@ Unique Password Generated
 
 1. I Learnt about callback function in JavaScript and how it works.
 2. Learnt about DOM Manipulation  
+
+## Application URL:-
+
+https://passwordgenerator238.netlify.app/
