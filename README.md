@@ -3,6 +3,9 @@
 
 A web app used to generate unique passwords every time. It is build using HTML,CSS and JavaScript
 
+## Application URL:-
+
+https://passwordgenerator238.netlify.app/
 
 ## Screenshots
 User can select the length of their password and the kind of characters they want.
@@ -18,6 +21,4 @@ Unique Password Generated
 1. I Learnt about callback function in JavaScript and how it works.
 2. Learnt about DOM Manipulation  
 
-## Application URL:-
 
-https://passwordgenerator238.netlify.app/
